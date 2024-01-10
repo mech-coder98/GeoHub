@@ -22,8 +22,6 @@ Use these files to complete the implementation:
 
 Create a database that contains two tables `country` and `city` using the given database schema.
 
-You can refer to this [session](https://learning.ccbp.in/course?c_id=e345dfa4-f5ce-406e-b19a-4ed720c54136&s_id=6a60610e-79c2-4e15-b675-45ddbd9bbe82&t_id=f880166e-2f51-4403-81a0-d2430694dae8), for creating a database.
-
 _Create the SQL files and compose accurate queries to run the application. Inaccurate SQL files will result in test case failures._
 
 <details>
